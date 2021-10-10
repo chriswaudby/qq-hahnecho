@@ -1,5 +1,7 @@
 # qq-hahnecho
 
+[![DOI](https://zenodo.org/badge/415567153.svg)](https://zenodo.org/badge/latestdoi/415567153)
+
 Code for [Analysis of Conformational Exchange Processes using Methyl-TROSY-Based Hahn Echo Measurements of Quadruple-Quantum Relaxation](https://mr.copernicus.org/preprints/mr-2021-60/).
 
 This repository contains code for two analyses:
