@@ -1,6 +1,6 @@
 # qq-hahnecho
 
-Code for _Analysis of Conformational Exchange Processes using Methyl-TROSY-Based Hahn Echo Measurements of Quadruple-Quantum Relaxation_.
+Code for [Analysis of Conformational Exchange Processes using Methyl-TROSY-Based Hahn Echo Measurements of Quadruple-Quantum Relaxation](https://mr.copernicus.org/preprints/mr-2021-60/).
 
 This repository contains code for two analyses:
 * `hahnecho-analysis` - analysis of field-dependent Hahn echo measurements for single residues (Fig. 5 in publication)
@@ -21,3 +21,8 @@ Analysis scripts are written in Julia. Dependencies for both analyses are contai
 * Directory: `hahnecho-cpmg-analysis`
 * Main file: `go.jl`
 * All data are contained within `data` subdirectory. CPMG data are loaded from parsed ChemEx format.
+
+
+## Citing
+
+If you use this software, please cite it: see `CITATION.cff` for further information.
